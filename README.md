@@ -35,6 +35,8 @@ cd project name
 
 <p>4. Run python file</p>
 
+<p> Enjoy ✨✨✨</p>
+
 <h2>🍰 Contribution Guidelines:</h2>
 
 To ensure a smooth collaboration process please follow these guidelines when contributing to this project: 
